@@ -1,0 +1,8 @@
+1- Rode o código fornecido de base. Observe, entenda e anote o seu funcionamento;
+
+O que acontece quando pressiona e solta o botão?
+Ao pressionar o botão, após 1s, o botão liga e desliga ao soltar.
+
+O que acontece quando pressiona e segura o botão?
+Ao pressionar o botão, após 1s, o botão liga e se mantém aceso continuamente.
+
